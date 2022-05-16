@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@300;400;500;600;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+#nav-links{
+    height: 50px;
+}
+#nav-links a{
+    text-decoration: none;
+    color: #000;
+}
+#nav-links a:hover, #nav-links a:active{
+    border-bottom: 2px solid rgb(39, 38, 38);
+}
+.center-photo{
+    margin-top: 6rem;
+}
+.cv-btn{
+    font-size: 12px;
+    margin-top: 50px;
+}
+#about-section{
+    text-align: justify;
+    line-height: 1.5rem;
+}
+.divider{
+    height: 30vh;
+}
+#education-section{
+    padding-top: 8%;
+}
+#timeline-section{
+    padding-top: 20%;
+}
